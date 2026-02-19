@@ -4,3 +4,6 @@
 用的心流平台的 API。
 # AI 的使用环境
 HTML,PHP,PYTHON 都可以运行。
+# Python 的运行方式
+安装
+pip install flask requests
